@@ -16,7 +16,8 @@ UX Designer and Researcher
 <p><b>Tools</b>: Sketch, Axure, InVision, Marvel POP, Keynote, Microsoft Office, SPSS</p>
 <p><b>Languages</b>: English (Native), Spanish (Fluent)</p>
 
-## DESIGN EXPERIENCE
+
+## WORK EXPERIENCE
 
 ### YourLocal - UX Designer
 `Aug 2019 - Sep 2019`
@@ -28,7 +29,6 @@ UX Designer and Researcher
 <ul> •  Collaborated with team to design wireframes and a clickable prototype </ul>
 <ul> •  Facilitated feedback sessions and workshops to create alignment between design team and stakeholders </ul>
 
-
 ### Lola on the Grill - Brand Strategist
 `Aug 2018 - May 2019`
 <p> Led rebranding efforts from “mom and pop” restaurant to “fast and casual” streamlining service and reducing visit time by 8 minutes </p>
@@ -39,17 +39,7 @@ UX Designer and Researcher
 <ul> •  Contribution resulted in owners opening up 4 more locations in Westchester </ul>
 
 
-## EDUCATION
-
-__Pontificia Universidad Catolica Madre y Maestra, Doctor of Medicine, MD, Medicine.__
-`Graduated 2018`
-
-
-__Flatiron School, User Experience Design Immersive.__
-`2019`
-
-
-## MEDICAL EXPERIENCE
+## CLINICAL AND RESEARCH EXPERIENCE
 
 ### Pontificia Universidad Catolica Madre y Maestra - Clinical Clerkship				   
 `May 2017 - May 2018`                  
@@ -60,6 +50,14 @@ __Flatiron School, User Experience Design Immersive.__
 <p> Planned and led research aimed to identify sociodemographic characteristics and injuries associated with gender-based violence in the Dominican Republic. Presented research at XIV Congreso Internacional de Investigación Científica. </p>
 
 
+## EDUCATION
+
+__Pontificia Universidad Catolica Madre y Maestra, Doctor of Medicine, MD, Medicine.__
+`Graduated 2018`
+
+
+__Flatiron School, User Experience Design Immersive.__
+`2019`
 <!-- ### Footer
 
 Last updated: Oct 2019 -->
