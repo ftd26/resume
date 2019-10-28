@@ -10,7 +10,7 @@ UX Designer
 
 ## ABOUT ME
 
-<p>As a UX designer and researcher, I'm passionate about translating my deep understanding for users into meaningful and data-driven digital experiences.</p> 
+<p>As a UX designer and researcher, I'm passionate about translating my deep understanding for users into meaningful and data-driven digital experiences. </p> 
 
 
 ## SKILLS
@@ -50,14 +50,17 @@ UX Designer
 
 ### Pontificia Universidad Catolica Madre y Maestra - Clinical Clerkship				   
 `May 2017 - May 2018`                  
-<ul>•  Evaluated patients, creating and managing medical assessments</ul> 
-<ul>•  Presented findings in medical rounds to attendings, residents, and other students</ul>
-<ul>•  Developed and delivered reports to medical professionals and non-medicals users</ul>
+<ul>•  Managed physical and electronic medical records </ul>
+<ul>•  Evaluated patients and wrote up complete medical notes and assessments </ul>
+<ul>•  Presented findings in medical rounds that consisted of medical students, residents and attendings </ul>
+<ul>•  Developed and presented detailed medical reports to people with and without medical background </ul>
+
 
 
 ### Pontificia Universidad Catolica Madre y Maestra - Researcher				   	    
 `May 2016 - Jun 2018`
-<ul> •  Planned and led research aimed to identify sociodemographic characteristics and injuries associated with gender-based violence in the Dominican Republic</ul>
+<ul>•  Planned and led research aimed to identify sociodemographic characteristics and injuries associated with gender-based violence in the Dominican Republic</ul>
+<ul>•  Collected and analyzed data using IBM’s SPSS</ul>
 <ul>•  Created guide for early intervention and education on gender-based balance in urban communities of the Dominican Republic</ul>
 <ul>•  Presented research at XIV Congreso Internacional de Investigación Científica, an international congress that shines a spotlight on science, technology and innovation in Latin America</ul>
 
