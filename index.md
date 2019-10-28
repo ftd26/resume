@@ -4,12 +4,12 @@ UX Designer and Researcher
 
 <div id="webaddress">
 <a href="ftdominguez26@gmail.com">ftdominguez26@gmail.com</a>
-| <a href="francheska.design">Portfolio</a>
 | <a href="tel:347-664-5630">347-664-5630</a>
 </div>
 
 
 ## SKILLS
+
 
 <p><b>UX Design</b>: Wireframing, Prototyping, User Persona & Scenario, User Journey Mapping, Site/App Maps, Information Architecture</p>
 <p><b>UX Research</b>: User Interviews, Usability Testing, Contextual Inquiry, Comparative Analysis, Heuristic Evaluation, A/B Testing</p>
@@ -17,7 +17,9 @@ UX Designer and Researcher
 <p><b>Languages</b>: English (Native), Spanish (Fluent)</p>
 
 
+
 ## WORK EXPERIENCE
+
 
 ### YourLocal - UX Designer
 `Aug 2019 - Sep 2019`
@@ -26,6 +28,7 @@ UX Designer and Researcher
 <ul> •  Used rapid prototyping to produce and test solution concepts </ul>
 <ul> •  Collaborated with team to design wireframes and a clickable prototype </ul>
 <ul> •  Facilitated feedback sessions and workshops to create alignment between design team and stakeholders </ul>
+
 
 ### Lola on the Grill - Brand Strategist
 `Aug 2018 - May 2019`
@@ -36,18 +39,22 @@ UX Designer and Researcher
 <ul> •  Contribution resulted in owners opening up 4 more locations in Westchester </ul>
 
 
+
 ## CLINICAL AND RESEARCH EXPERIENCE
+
 
 ### Pontificia Universidad Catolica Madre y Maestra - Clinical Clerkship				   
 `May 2017 - May 2018`                  
-<ul> Evaluated patients, creating and managing medical assessments.</ul> 
-<ul>Presented findings in medical rounds to attendings, residents, and other students.</ul>
-<ul>Developed and delivered reports to medical professionals and non-medicals users. </ul>>
+<ul>Evaluated patients, creating and managing medical assessments</ul> 
+<ul>Presented findings in medical rounds to attendings, residents, and other students</ul>
+<ul>Developed and delivered reports to medical professionals and non-medicals users</ul>
+
 
 ### Pontificia Universidad Catolica Madre y Maestra - Researcher				   	    
 `May 2016 - Jun 2018`
-<ul> Planned and led research aimed to identify sociodemographic characteristics and injuries associated with gender-based violence in the Dominican Republic.</ul>
-<ul>Presented research at XIV Congreso Internacional de Investigación Científica. </ul>
+<ul> Planned and led research aimed to identify sociodemographic characteristics and injuries associated with gender-based violence in the Dominican Republic</ul>
+<ul>Created guide for early intervention and education on gender-based balance in urban communities of the Dominican Republic</ul>
+<ul>Presented research at XIV Congreso Internacional de Investigación Científica, an international congress that shines a spotlight on science, technology and innovation in Latin America</ul>
 
 
 ## EDUCATION
