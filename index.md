@@ -45,16 +45,16 @@ UX Designer and Researcher
 
 ### Pontificia Universidad Catolica Madre y Maestra - Clinical Clerkship				   
 `May 2017 - May 2018`                  
-<ul>Evaluated patients, creating and managing medical assessments</ul> 
-<ul>Presented findings in medical rounds to attendings, residents, and other students</ul>
-<ul>Developed and delivered reports to medical professionals and non-medicals users</ul>
+<ul>•  Evaluated patients, creating and managing medical assessments</ul> 
+<ul>•  Presented findings in medical rounds to attendings, residents, and other students</ul>
+<ul>•  Developed and delivered reports to medical professionals and non-medicals users</ul>
 
 
 ### Pontificia Universidad Catolica Madre y Maestra - Researcher				   	    
 `May 2016 - Jun 2018`
-<ul> Planned and led research aimed to identify sociodemographic characteristics and injuries associated with gender-based violence in the Dominican Republic</ul>
-<ul>Created guide for early intervention and education on gender-based balance in urban communities of the Dominican Republic</ul>
-<ul>Presented research at XIV Congreso Internacional de Investigación Científica, an international congress that shines a spotlight on science, technology and innovation in Latin America</ul>
+<ul> •  Planned and led research aimed to identify sociodemographic characteristics and injuries associated with gender-based violence in the Dominican Republic</ul>
+<ul>•  Created guide for early intervention and education on gender-based balance in urban communities of the Dominican Republic</ul>
+<ul>•  Presented research at XIV Congreso Internacional de Investigación Científica, an international congress that shines a spotlight on science, technology and innovation in Latin America</ul>
 
 
 ## EDUCATION
