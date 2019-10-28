@@ -8,6 +8,11 @@ UX Designer
 </div>
 
 
+## ABOUT ME
+
+<p>As a UX designer and researcher, I'm passionate about translating my deep understanding for users into meaningful and data-driven digital experiences.</p> 
+
+
 ## SKILLS
 
 
