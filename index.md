@@ -37,11 +37,10 @@ UX Designer
 
 ### Lola on the Grill - Brand Strategist
 `Aug 2018 - May 2019`
-<ul> •  Led rebranding efforts from “mom and pop” restaurant to “fast and casual” streamlining service and reducing visit time by 8 minutes </ul>
-<ul> •  Created framework for the brand’s style guide, solidifying brand identity and local awareness	 </ul>
+<ul> •  Created framework for the brand’s style guide, solidifying brand identity and local awareness shifting image from “mom and pop” restaurant to “fast and casual”</ul>
 <ul> •  Executed consumer research using a combination of surveys and consumer interviews </ul>
 <ul> •  Collaborated with a creative team, including graphic designer, photographer, and videographer to ensure materials were in line with brand strategy guidelines </ul>
-<ul> •  Contribution resulted in owners opening up 4 more locations in Westchester </ul>
+<ul> •  Contribution resulted in streamlined service with reduced visit time, and owners opening up 4 more locations</ul>
 
 
 
