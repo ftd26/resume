@@ -17,7 +17,7 @@ UX Designer
 
 
 <p><b>UX Design</b>: Wireframing, Prototyping, User Persona & Scenario, User Journey Mapping, Site/App Maps, Information Architecture</p>
-<p><b>UX Research</b>: User Interviews, Usability Testing, Contextual Inquiry, Comparative Analysis, Heuristic Evaluation, A/B Testing</p>
+<p><b>UX Research</b>: User Interviews, Usability Testing, Contextual Inquiry, Competitive Analysis, Heuristic Evaluation, A/B Testing</p>
 <p><b>Tools</b>: Sketch, Axure, InVision, Marvel POP, Keynote, Microsoft Office, SPSS</p>
 <p><b>Languages</b>: English (Native), Spanish (Fluent)</p>
 
