@@ -10,7 +10,7 @@ UX Designer
 
 ## ABOUT ME
 
-<p>As a UX designer and researcher, I'm passionate about translating my deep understanding for users into meaningful and data-driven digital experiences. </p> 
+<p>I’m a UX designer and researcher with a rooted background in healthcare. I keep curiosity and empathy at the heart of my work. It’s what makes me work tirelessly to deliver meaningful, data- informed products. I’m currently seeking opportunities that expand my understanding of UX by collaborating with a team of established designers.</p> 
 
 
 ## SKILLS
